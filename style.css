@@ -55,3 +55,9 @@
   text-align: center;
   color: white;
 }
+
+.part1 .one .text-content .head h1 {
+  font-size: 6.8vw;
+  font-weight: 600;
+  line-height: 7rem;
+}
