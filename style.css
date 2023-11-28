@@ -24,10 +24,17 @@
   width: 100%;
 }
 
-.section {
+.section1 .one .header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 20px 0;
   z-index: 10;
 }
+
+.section1 .one .header i {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.section1 video;
