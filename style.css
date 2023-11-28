@@ -24,7 +24,7 @@
   width: 100%;
 }
 
-.section1 .one .header {
+.part1 .one .header {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -32,9 +32,9 @@
   z-index: 10;
 }
 
-.section1 .one .header i {
+.part1 .one .header i {
   font-size: 20px;
   cursor: pointer;
 }
 
-.section1 video;
+.part1 video;
