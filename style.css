@@ -63,4 +63,14 @@
   line-height: 7rem;
 }
 
-.section .one .text-content;
+.section .one .text-content .head span {
+  color: yellow;
+}
+
+.cursor {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  position: fixed;
+  top: ;
+}
