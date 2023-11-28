@@ -1,3 +1,6 @@
 function cursor() {
-    let cursor = document.quetggg0'
+  let cursor = document.querySelector(".cursor");
+  let body = document.querySelector("body");
+
+  body.addEventListener("mousemove");
 }
