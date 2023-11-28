@@ -8,4 +8,4 @@ function cursor() {
         y: e.y + "px",
     })
   ));
-}
+}cursor();
