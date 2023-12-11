@@ -34,6 +34,10 @@ function part2() {
   let body = document.querySelector(".body");
 
   //
-  part2.addEventListener("mouseenter");
+  part2.addEventListener("mouseenter", () => {
+    gsap.to(cursor, {
+      height: "100px",
+    });
+  });
 }
 part2();
