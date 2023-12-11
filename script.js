@@ -12,7 +12,7 @@ function cursor() {
 cursor();
 
 // section animation
-function section() {
+function part1() {
   let t1 = gsap.timeline();
   t1.from(".header", {
     y: -50,
