@@ -44,7 +44,10 @@ function part2() {
       margin: "20px",
     });
 
-    gsap.to();
+    gsap.to(body, {
+      background: "#0f0f0f",
+      color: "white",
+    });
   });
 }
 part2();
