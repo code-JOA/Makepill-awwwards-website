@@ -38,7 +38,7 @@ function part2() {
     gsap.to(cursor, {
       height: "100px",
       width: "100px",
-      innerHTML: <i class="fa-solid fa-volume-high"></i>,
+      innerHTML: "<i class='fa-solid fa-volume-high'></i>",
       fontSize: "25px",
       color: "black",
       margin: "20px",
