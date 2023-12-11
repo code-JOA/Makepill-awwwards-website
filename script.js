@@ -19,8 +19,9 @@ function section() {
     opacity: 0,
     duration: 1,
   });
-  t1.from(".text-content h1, .text-content p" ,
-  y: 100,
-  opacity: );
+  t1.from(".text-content h1, .text-content p", {
+    y: 100,
+    opacity: 0,
+  });
 }
 part1();
