@@ -29,9 +29,9 @@ part1();
 
 // part2 animation
 function part2() {
-  let part2 = document.querySelector(".part2");
+  let partTwo = document.querySelector(".part2");
   let cursor = document.querySelector(".cursor");
-  let body = document.querySelector(".body");
+  let body = document.querySelector("body");
 
   //
   partTwo.addEventListener("mouseenter", () => {
