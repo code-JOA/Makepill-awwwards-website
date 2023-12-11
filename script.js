@@ -34,7 +34,7 @@ function part2() {
   let body = document.querySelector(".body");
 
   //
-  part2.addEventListener("mouseenter", () => {
+  partTwo.addEventListener("mouseenter", () => {
     gsap.to(cursor, {
       height: "100px",
       width: "100px",
