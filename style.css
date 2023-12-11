@@ -100,5 +100,5 @@
 .section2 video {
   height: 100%;
   width: 100%;
-  object-fit: center;
+  object-fit: cover;
 }
