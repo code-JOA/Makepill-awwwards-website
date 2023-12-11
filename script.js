@@ -43,6 +43,8 @@ function part2() {
       color: "black",
       margin: "20px",
     });
+
+    gsap.to();
   });
 }
 part2();
