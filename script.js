@@ -10,3 +10,8 @@ function cursor() {
   });
 }
 cursor();
+
+// section animation
+function section() {
+  let t1 = document;
+}
