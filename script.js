@@ -13,5 +13,5 @@ cursor();
 
 // section animation
 function section() {
-  let t1 = document;
+  let t1 = gsap.timeline();
 }
