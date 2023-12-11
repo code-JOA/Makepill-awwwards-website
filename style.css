@@ -63,7 +63,11 @@
   line-height: 7rem;
 }
 
-.part1 .one .text-content .head span {
+/* .part1 .one .text-content .head span {
+  color: yellow;
+} */
+
+.page1 h1 span {
   color: yellow;
 }
 
