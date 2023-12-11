@@ -44,10 +44,18 @@ function part2() {
       margin: "20px",
     });
 
+    //  change section color
     gsap.to(body, {
       background: "#0f0f0f",
       color: "white",
     });
   });
+
+  // executing color change when mouse leaves our section
+  partTwo.addEventListener('mouseleave', () => {
+    gsap.to(cursor, {
+      height: 
+    })
+  })
 }
 part2();
