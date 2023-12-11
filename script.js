@@ -28,3 +28,8 @@ function part1() {
 part1();
 
 // part2 animation
+function part2() {
+  let part2 = document.querySelector(".part2");
+  let cursor = document.querySelector(".cursor");
+  let body = document.querySelector;
+}
