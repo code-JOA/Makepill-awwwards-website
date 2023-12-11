@@ -37,6 +37,11 @@ function part2() {
   part2.addEventListener("mouseenter", () => {
     gsap.to(cursor, {
       height: "100px",
+      width: "100px",
+      innerHTML: <i class="fa-solid fa-volume-high"></i>,
+      fontSize: "25px",
+      color: "black",
+      margin: "20px",
     });
   });
 }
