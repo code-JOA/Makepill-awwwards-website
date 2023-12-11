@@ -22,6 +22,7 @@ function section() {
   t1.from(".text-content h1, .text-content p", {
     y: 100,
     opacity: 0,
+    duration: 0.8,
   });
 }
 part1();
