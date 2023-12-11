@@ -31,5 +31,9 @@ part1();
 function part2() {
   let part2 = document.querySelector(".part2");
   let cursor = document.querySelector(".cursor");
-  let body = document.querySelector;
+  let body = document.querySelector(".body");
+
+  //
+  part2.addEventListener("mouseenter");
 }
+part2();
