@@ -91,6 +91,11 @@
   cursor: pointer;
 }
 
+.section2 {
+  height: 100%;
+  width: 100%;
+}
+
 .section2 video {
   height: 100%;
   width: 100%;
