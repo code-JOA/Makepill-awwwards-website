@@ -52,10 +52,11 @@ function part2() {
   });
 
   // executing color change when mouse leaves our section
-  partTwo.addEventListener('mouseleave', () => {
+  partTwo.addEventListener("mouseleave", () => {
     gsap.to(cursor, {
-      height: 
-    })
-  })
+      height: "18px",
+      width: "",
+    });
+  });
 }
 part2();
