@@ -15,10 +15,10 @@ cursor();
 function section() {
   let t1 = gsap.timeline();
   t1.from(".header", {
-    y = -50,
+    y: -50,
     opacity: 0,
     duration: 1,
   });
-  t1.from('.text-content h1, .text-content p',)
+  t1.from(".text-content h1, .text-content p");
 }
-section();
+part1();
