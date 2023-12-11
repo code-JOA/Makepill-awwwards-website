@@ -51,11 +51,13 @@ function part2() {
     });
   });
 
-  // executing color change when mouse leaves our section
+  // executing code whenever mouse leaves our part2
   partTwo.addEventListener("mouseleave", () => {
     gsap.to(cursor, {
       height: "18px",
-      width: "",
+      width: "18px",
+      margin: 0,
+      innerHTML: "",
     });
   });
 }
