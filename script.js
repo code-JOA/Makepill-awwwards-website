@@ -59,6 +59,12 @@ function part2() {
       margin: 0,
       innerHTML: "",
     });
+
+    //  change section color
+    gsap.to(body, {
+      background: "white",
+      color: "#0f0f0f",
+    });
   });
 }
 part2();
