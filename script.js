@@ -33,7 +33,7 @@ function part2() {
   let cursor = document.querySelector(".cursor");
   let body = document.querySelector("body");
 
-  //
+  // execute this code whenever mouse enters into this section
   partTwo.addEventListener("mouseenter", () => {
     gsap.to(cursor, {
       height: "100px",
