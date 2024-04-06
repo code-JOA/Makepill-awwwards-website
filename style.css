@@ -96,3 +96,7 @@
   width: 100%;
   object-fit: cover;
 }
+
+.part3 {
+  min-height: 100%;
+}
