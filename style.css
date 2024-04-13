@@ -113,4 +113,12 @@
 
 .part3 .three .left,
 .part3 .three .right {
+  width: 100%;
+  height: 100%;
 }
+
+/* .part3 .three .right,
+.part3 .three .right {
+  width: 100% ;
+  height: 100%;
+} */
