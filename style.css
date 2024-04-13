@@ -108,4 +108,5 @@
 .part3 .three {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
