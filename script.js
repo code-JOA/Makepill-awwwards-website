@@ -70,5 +70,5 @@ function part2() {
 part2();
 
 function part3() {
-  let;
+  let cursor = querySelector();
 }
