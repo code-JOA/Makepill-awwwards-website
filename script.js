@@ -70,7 +70,7 @@ function part2() {
 part2();
 
 function part3() {
-  let cursor = querySelector(".cursor");
+  let cursor = document.querySelector(".cursor");
   let partThree = document.querySelector(".part3");
 
   // cursor changes to black in part3
