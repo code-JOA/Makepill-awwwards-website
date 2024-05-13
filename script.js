@@ -71,5 +71,5 @@ part2();
 
 function part3() {
   let cursor = querySelector(".cursor");
-  let partThree = 
+  let partThree = document.querySelector(".part3");
 }
