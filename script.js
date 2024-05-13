@@ -42,6 +42,7 @@ function part2() {
       fontSize: "25px",
       color: "black",
       margin: "20px",
+      background: "white",
     });
 
     //  change section color
