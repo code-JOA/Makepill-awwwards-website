@@ -73,5 +73,7 @@ function part3() {
   let cursor = querySelector(".cursor");
   let partThree = document.querySelector(".part3");
   // cursor changes to black in part3
-  partThree = addEventListener(".mouseenter", ());
+  partThree = addEventListener(".mouseenter", () => {
+    gsap.to(cursor);
+  });
 }
