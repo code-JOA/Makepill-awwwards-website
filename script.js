@@ -79,3 +79,4 @@ function part3() {
     });
   });
 }
+part3();
