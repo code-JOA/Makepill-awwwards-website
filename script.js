@@ -76,7 +76,7 @@ function section3() {
   let sectionThree = document.querySelector(".section3");
 
   // cursor changes to black in part3
-  sectionThree.addEventListener(".mouseenter", () => {
+  sectionThree.addEventListener("mouseenter", () => {
     gsap.to(cursor, {
       background: "#0f0f0f",
     });
