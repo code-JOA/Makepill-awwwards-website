@@ -71,7 +71,7 @@ function part2() {
 part2();
 
 // section3
-function part3() {
+function section3() {
   let cursor = document.querySelector(".cursor");
   let sectionThree = document.querySelector(".section3");
 
