@@ -71,15 +71,15 @@ function part2() {
 part2();
 
 // section3
-function section3() {
+function part3() {
   let cursor = document.querySelector(".cursor");
-  let sectionThree = document.querySelector(".section3");
+  let partThree = document.querySelector(".part3");
 
   // cursor changes to black in part3
-  sectionThree.addEventListener("mouseenter", () => {
+  partThree.addEventListener("mouseenter", () => {
     gsap.to(cursor, {
       background: "#0f0f0f",
     });
   });
 }
-section3();
+part3();
